@@ -1,3 +1,15 @@
+
+# Amazing effects!!
+
+original random image
+![https://raw.githubusercontent.com/ScriptsAndApps/AdobePlugin/main/old.png](https://raw.githubusercontent.com/ScriptsAndApps/AdobePlugin/main/old.png)
+
+The plugin can create this >>>
+Edited image after plugin (Fractalius 2)
+![https://raw.githubusercontent.com/ScriptsAndApps/AdobePlugin/main/new_example.png](https://raw.githubusercontent.com/ScriptsAndApps/AdobePlugin/main/new_example.png)
+
+<<<
+
 1. Close all photoshop.exe
 
 2. run AbstractionTX 1.01.exe
